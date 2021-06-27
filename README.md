@@ -11,20 +11,25 @@
 <h2>Ferramentas utilizadas</h2>
 <h3>Programação</h3>
 <ul>
-  Python
-  HTML
-  CSS
-  JS
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
 </ul>
 <h3>Softwares de desenvolvimento coletivo</h3>
 <ul>
-  Git
-  Git hub
-  Vscode
+  <li>Git</li>
+  <li>Git hub</li>
+  <li>Vscode</li>
 </ul>
 <h3>Edição de Imagem</h3>
 <ul>
-  Photoshop
+  <li>Photoshop</li>
+</ul>
+
+<h2>Redes Sociais</h2>
+<ul>
+  <li>Linkedin: https://www.linkedin.com/in/gabriel-penna-de-lima-31074716b/ </li>
 </ul>
 
 <h1>English Version</h1>
@@ -40,19 +45,23 @@
 <h2>Tools</h2>
 <h3>Coding</h3>
 <ul>
-  Python
-  HTML
-  CSS
-  JS
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JS</li>
 </ul>
 <h3>Development coletive softwares</h3>
 <ul>
-  Git
-  Git hub
-  Vscode
+  <li>Git</li>
+  <li>Git hub</li>
+  <li>Vscode</li>
 </ul>
 <h3>Image Editor</h3>
 <ul>
-  Photoshop
+  <li>Photoshop</li>
 </ul>
 
+<h2>Social Networks</h2>
+<ul>
+  <li>Linkedin: https://www.linkedin.com/in/gabriel-penna-de-lima-31074716b/ </li>
+</ul>
