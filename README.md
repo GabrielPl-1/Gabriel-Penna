@@ -35,7 +35,7 @@
 <h1>English Version</h1>
 
 <ul>
-  <li>Name: Gabriel Penna</li>
+  <li>Name: Gabriel Penna de Lima</li>
   <li>Course: Computer engineering</li>
   <li>College: Insper</li>
   <li>Birthplace: Brasil</li>
