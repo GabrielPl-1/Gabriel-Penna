@@ -11,8 +11,48 @@
 <h2>Ferramentas utilizadas</h2>
 <h3>Programação</h3>
 <ul>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e"><img src="https://camo.githubusercontent.com/cc663b44f5f2d7e674990fd054d828aae0e30ec8df36768e5f5552978da1cfdf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=python" style="max-width:100%;"></a>
-  
-
-  
+  Python
+  HTML
+  CSS
+  JS
 </ul>
+<h3>Softwares de desenvolvimento coletivo</h3>
+<ul>
+  Git
+  Git hub
+  Vscode
+</ul>
+<h3>Edição de Imagem</h3>
+<ul>
+  Photoshop
+</ul>
+
+<h1>English Version</h1>
+
+<ul>
+  <li>Name: Gabriel Penna</li>
+  <li>Course: Computer engineering</li>
+  <li>College: Insper</li>
+  <li>Birthplace: Brasil</li>
+  <li>resides in: São Paulo</li>
+</ul>
+
+<h2>Tools</h2>
+<h3>Coding</h3>
+<ul>
+  Python
+  HTML
+  CSS
+  JS
+</ul>
+<h3>Development coletive softwares</h3>
+<ul>
+  Git
+  Git hub
+  Vscode
+</ul>
+<h3>Image Editor</h3>
+<ul>
+  Photoshop
+</ul>
+
