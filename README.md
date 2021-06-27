@@ -3,9 +3,9 @@
 <ul>
   <li>Nome: Gabriel Penna de Lima</li>
   <li>Curso: Engenharia da computação</li>
-  <li>Local de ensino:Insper</li>
-  <li>Local de nascimento:Brasil</li>
-  <li>Onde reside:São Paulo</li>
+  <li>Local de ensino: Insper</li>
+  <li>Local de nascimento: Brasil</li>
+  <li>Onde reside: São Paulo</li>
 </ul>
 
 <h2>Ferramentas utilizadas</h2>
