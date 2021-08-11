@@ -14,7 +14,6 @@
   <li>Python</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JS</li>
 </ul>
 <h3>Softwares de desenvolvimento coletivo</h3>
 <ul>
