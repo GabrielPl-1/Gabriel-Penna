@@ -47,7 +47,6 @@
   <li>Python</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JS</li>
 </ul>
 <h3>Development coletive softwares</h3>
 <ul>
