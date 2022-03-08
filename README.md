@@ -9,11 +9,13 @@
 </ul>
 
 <h2>Ferramentas utilizadas</h2>
-<h3>Programação</h3>
+<h3>Código</h3>
 <ul>
-  <li>Python</li>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>Python - Avançado e certificado</li>
+  <li>HTML - Avançado</li>
+  <li>CSS - Avançado</li>
+  <li>Java - Basico</li>
+  <li>JS - Avançado</li>
 </ul>
 <h3>Softwares de desenvolvimento coletivo</h3>
 <ul>
@@ -44,9 +46,11 @@
 <h2>Tools</h2>
 <h3>Coding</h3>
 <ul>
-  <li>Python</li>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>Python - Intermediary and certified</li>
+  <li>HTML - Intermediary</li>
+  <li>CSS - Advanced</li>
+  <li>Java - Basic </li>
+  <li>Js - Basic</li>
 </ul>
 <h3>Development coletive softwares</h3>
 <ul>
