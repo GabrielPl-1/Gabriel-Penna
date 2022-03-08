@@ -31,6 +31,7 @@
 <h2>Redes Sociais</h2>
 <ul>
   <li>Linkedin: https://www.linkedin.com/in/gabriel-penna-de-lima-31074716b/ </li>
+  <li>Instagram: https://www.instagram.com/gapenna/
 </ul>
 
 <h1>English Version</h1>
@@ -63,7 +64,8 @@
   <li>Photoshop</li>
 </ul>
 
-<h2>Social Networks</h2>
+<h2>Links</h2>
 <ul>
   <li>Linkedin: https://www.linkedin.com/in/gabriel-penna-de-lima-31074716b/ </li>
+  <li>instagram: https://www.instagram.com/gapenna/ </li>
 </ul>
