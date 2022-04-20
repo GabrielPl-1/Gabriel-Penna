@@ -2,8 +2,8 @@
 
 <ul>
   <li>Nome: Gabriel Penna de Lima</li>
-  <li>Curso: Engenharia da computação</li>
-  <li>Local de ensino: Insper</li>
+  <li>Curso: Sistemas da Informação</li>
+  <li>Local de ensino: FIAP</li>
   <li>Local de nascimento: Brasil</li>
   <li>Onde reside: São Paulo</li>
 </ul>
@@ -38,8 +38,8 @@
 
 <ul>
   <li>Name: Gabriel Penna de Lima</li>
-  <li>Course: Computer engineering</li>
-  <li>College: Insper</li>
+  <li>Course: information systems</li>
+  <li>College: FIAP</li>
   <li>Birthplace: Brasil</li>
   <li>resides in: São Paulo</li>
 </ul>
