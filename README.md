@@ -16,6 +16,7 @@
   <li>CSS - Avançado</li>
   <li>Java - Basico</li>
   <li>JS - Basico</li>
+  <li>AWS - Intermediario e certificado </li>
 </ul>
 <h3>Softwares de desenvolvimento coletivo</h3>
 <ul>
@@ -47,11 +48,12 @@
 <h2>Tools</h2>
 <h3>Coding</h3>
 <ul>
-  <li>Python - Intermediary and certified</li>
+  <li>Python - Advanced and certified</li>
   <li>HTML - Intermediary</li>
   <li>CSS - Advanced</li>
   <li>Java - Basic </li>
   <li>Js - Basic</li>
+  <li>Aws - Intermediary and certified</li>
 </ul>
 <h3>Development coletive softwares</h3>
 <ul>
