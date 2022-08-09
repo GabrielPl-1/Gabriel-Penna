@@ -15,7 +15,7 @@
   <li>HTML - Avançado</li>
   <li>CSS - Avançado</li>
   <li>Java - Basico</li>
-  <li>JS - Avançado</li>
+  <li>JS - Basico</li>
 </ul>
 <h3>Softwares de desenvolvimento coletivo</h3>
 <ul>
